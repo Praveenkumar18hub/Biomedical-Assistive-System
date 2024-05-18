@@ -1,7 +1,7 @@
 # BIO-MEDICAL ASISTIVE SYSTEM
-    This system uses Node-Mcu and integrating flex sensors into gloves and a strap to monitor hand movements and spinal posture respectively. 
-    A pulse sensor will also be incorporated to track pulse rate.
-    The system will enable users to communicate basic needs and emergencies through simple hand movements, trigger predefined messages, and activate an emergency alert mechanism when necessary.
+This system uses Node-Mcu and integrating flex sensors into gloves and a strap to monitor hand movements and spinal posture respectively. 
+A pulse sensor will also be incorporated to track pulse rate.
+The system will enable users to communicate basic needs and emergencies through simple hand movements, trigger predefined messages, and activate an emergency alert mechanism when necessary.
 
 ### TOOLS USED
 • **HARDWARE**: Breadboard, Jumper wires, Single strand wires, 1K ohm Resistor, ADC Converter, 5v Battery
